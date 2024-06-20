@@ -1,5 +1,4 @@
 # Car_Price_Prediction_using_ML
-Car_price_prediction-in-Ml-
 
 Utilized machine learning algorithms to predict car prices based on various attributes - Collected and preprocessed dataset of cars with attributes such as year, make, model, mileage, and engine size
 
